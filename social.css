@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 800px;
+  height: 100vh;
   background-color: hsl(0, 0%, 9%);
 }
 img {
